@@ -1,0 +1,25 @@
+body {
+  background-color: #5f1aa0;
+}
+div {
+  display: flex;
+  max-width: 100%;
+  justify-content: center;
+}
+button {
+  margin-top: 200px;
+  font-size: 45px;
+  cursor: pointer;
+}
+.texto {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 98px;
+  text-align: center;
+}
+.resultado {
+  color: #fff;
+  font-size: 20px;
+
+  text-align: center;
+}
